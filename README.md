@@ -4,3 +4,11 @@
 
 ### 파이썬 라이브러리
 - requirment.txt. 참고
+
+
+
+#### directory
+
+- blog : 블로그 기능
+- bookmark : 북마크 기능
+- mysite : Django 프로젝트 폴더
